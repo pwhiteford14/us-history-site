@@ -1,0 +1,28 @@
+.title{
+  font-size:30px;
+  width: 20%;
+}
+.button{
+  background-color: transparent;
+  color: #000;
+  border-radius: 5%;
+
+}
+.button:hover{
+  background-color: grey;
+  color: white;
+}
+.nav-items{
+  margin-left: 50%;
+  margin-top: -2.15%;
+  width: 100%;
+  font-size: 30px;
+}
+.nav-bar{
+  background-image: url("../images/daisy-header.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100px;
+}
+
+
